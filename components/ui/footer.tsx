@@ -108,7 +108,7 @@ export default function Footer({ border = false }: { border?: boolean }) {
         {/* Bottom section - Copyright and reCAPTCHA */}
         <div className="flex flex-col items-center gap-2 text-center">
           <div className="text-sm text-gray-600">
-            &copy; 2025 Devnitie. All rights reserved.
+            &copy; 2025 ClicksyDev. All rights reserved.
           </div>
           <div className="text-xs text-gray-500">
             This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
